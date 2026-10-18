@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If this toolkit supports your work, please cite or link to the repository."
+title: "Hackathon AI Toolkit"
+version: 1.1.0
+date-released: 2026-10-18
+license: MIT
+type: software
+abstract: >-
+  A universal, agent-compatible toolkit that separates hackathon research and
+  planning from approved implementation and evidence-based verification.
